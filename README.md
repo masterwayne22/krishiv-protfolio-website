@@ -51,10 +51,4 @@ This website is engineered as a lightning-fast, highly responsive single-page ex
 
 ---
 
-## ⚡ Local Development Execution
 
-To audit code compilation or execute real-time modifications within a local sandboxed terminal environment, execute the following commands:
-
-1. **Install Module Dependencies:**
-   ```bash
-   npm install
