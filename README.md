@@ -1,6 +1,8 @@
-# Minimalist Futuristic Portfolio
+# Krishiv Sarva Portfolio
 
 An elite, highly sophisticated developer identity platform and professional portfolio designed with a "quiet luxury" technical aesthetic. Built to highlight engineering roles, open-source contributions, and performance-optimized modern web architecture.
+
+Visit My Website-https://krishiv-protfolio-website.vercel.app/
 
 ---
 
@@ -22,6 +24,14 @@ This website is engineered as a lightning-fast, highly responsive single-page ex
 * **Sophisticated Typography Hierarchy:** Leverages elite variable typography configurations (Geist/Inter sans-serif combinations) to maintain visual balance and ample whitespace.
 * **Interactive Focus Rings:** Custom 1px dim borders (`border-slate-800`) that elegantly adapt opacity and scale shifts upon user engagement.
 * **Zero-Bloat Performance:** Free from heavy 3D canvases, tracking scripts, or distracting particle simulations, ensuring near-instantaneous page loads.
+
+
+  
+Website Screenshots-
+<img width="1867" height="632" alt="image" src="https://github.com/user-attachments/assets/d5628d5e-949c-47b7-b824-332cb58a3429" />
+<img width="1691" height="630" alt="image" src="https://github.com/user-attachments/assets/546650d5-265e-43b5-9317-9207acdf41b4" />
+
+
 
 ---
 
